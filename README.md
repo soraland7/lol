@@ -21,3 +21,6 @@ https://www.shinhanfund.com/ko/pc/main?selectedLanguage=ko&langageRemoveUri=%2F
 
 ##### 청명 종합광고기획
 http://cmcm.co.kr/
+
+##### 네이버 패션
+https://campaign.naver.com/fashiontown/#recommend
