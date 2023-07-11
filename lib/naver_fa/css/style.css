@@ -13,6 +13,7 @@ body{background: #000;}
 header{
     position:fixed;
     width:100%;
+    top:0;
 }
 header .inner{
     padding:0 40px;
@@ -51,5 +52,24 @@ header .inner .inr{
     margin-left:2rem;
 }
 
-
+/* float-menu */
+.float__menu{
+    position:fixed;
+    right:2rem;
+    bottom:7rem;
+    z-index:99;
+    opacity:1;
+    visibility:visible;
+}
+.float__menu-item-link{
+    width:3.5rem;
+    height:3.5rem;
+    display:block;
+    border-radius:1.75rem;
+    box-shadow:2px 2px 8px -2px rgba(0,0,0,.2);
+    overflow:hidden;
+}
+.float__menu-item+.float__menu-item{
+    margin-top:0.25rem;
+}
 /* main */
