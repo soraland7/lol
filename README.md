@@ -24,3 +24,9 @@ http://cmcm.co.kr/
 
 ##### 네이버 패션
 https://campaign.naver.com/fashiontown/#recommend
+
+
+# 일지.
+### 2023.07.11
+
+네이버 패션 틀 만들기
